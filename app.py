@@ -1,4 +1,4 @@
-# number guessing game !
+# number guessing game ! made by Firas Naimi .
 
 from random import randint
 
