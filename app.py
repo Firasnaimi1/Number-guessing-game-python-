@@ -52,7 +52,7 @@ max_range = get_top_of_range()
 # function that generate a random number
 def generating_random_number (max_range) :
     random_number = randint(0 , max_range)
-    return rand_number
+    return random_number
 
 #generating the random number
 rand_number = generating_random_number(max_range)
